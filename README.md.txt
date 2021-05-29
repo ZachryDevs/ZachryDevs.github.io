@@ -1,3 +1,4 @@
+<!DOCTYPE md>
 # TESTING HEADER 1
 
 This is supposed to be body text under header 1
